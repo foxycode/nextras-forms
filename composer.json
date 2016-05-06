@@ -1,5 +1,5 @@
 {
-	"name": "nextras/forms",
+	"name": "foxycode/nextras-forms",
 	"type": "library",
 	"description": "Extra form components for Nette Framework.",
 	"keywords": ["nette", "form"],
